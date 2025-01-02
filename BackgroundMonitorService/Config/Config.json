@@ -1,0 +1,10 @@
+﻿{
+  "FolderToMonitor": "C:\\MonitorFolder",
+  "BackupFolder": "C:\\Backup",
+  "LogFilePath": "C:\\ServiceLogs\\service.log",
+  "CleanupRetentionDays": 10,
+  "FileExtensionsToBackup": [ ".txt", ".log", ".csv" ],
+  "MaxRetries": 3,
+  "RetryDelay": 5
+  
+}
